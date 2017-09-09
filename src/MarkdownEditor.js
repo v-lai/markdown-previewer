@@ -21,7 +21,7 @@ export default class MarkdownEditor extends Component {
   render() {
     return (
       <div className="MarkdownEditor">
-      <h1 className="title">React Markdown Editor</h1>
+      <h1 className="title">React Markdown Previewer</h1>
         <div className="left">
           <h3>Input</h3>
           <textarea
